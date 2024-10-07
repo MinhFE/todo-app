@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #282c34;
+}
+
+.app_container {
+  width: 50vw;
+  padding: 24px;
+  background-color: white;
+  border-radius: 8px;
+}
+
+.container_title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
